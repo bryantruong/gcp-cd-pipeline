@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bryan-onboarding-study-298021",
+  "private_key_id": "60bc51dd46ada36ba3750724919b15cc1f4c0aa2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCaz8QoH/wQxV5o\nvMJ1zrV17EtV9VQ30nmyZKTLDOSiXwEudwDJLbQiYwfiUFA5KT3Ol5jNNYhnxCWC\n7XQQsK3i57Mm9mcbrRPWiYDvQp23h9oX1coyP8hNvdDkmJum8G4bPK+4bC9dYBYh\noae6OpHpK/VWHlnJ8w3Axm7YpIu2hBxJrfpfrF/uK0ve/VTXKVnWyW2D3nAfSGMn\nv9uIiaitUdODgtrOj3BMDXqlwcmXAxSD0BZO4zKYwlZo9rXhGxu3fAJTb2SSH/+h\ny/41uDIPZ9q0ddZlGgbyH90yv4oNtdOuLMuan8Nx5ZNGR/eGkDrt1sIaKkEA0/7w\nMOFUWD1XAgMBAAECgf95hLcY1RYhaU7gCMevb+5Vr0YrJeqtY28c09ZFf0+CTCRz\nVJpJUEgBya0yGRPZH+9QaRFAA0IPODBhEhAChpKvdegdXpUn1Yx7PPCpiQnoE3mN\npRvDNOtUnf/+37FBRURWa67lkU5HPwRh5Rl7UAgXvdKoQ3lyj1A1xqDFodM3Qfr1\nC2TswjuRr2GlPnldB9DXZIKu6WpAWXOWlwhYNm9El+lNmNNjKKjdVpnkuoGRj/g4\nPx+YlCVFdWzrE7L17tSTVgpLmNwWdSEvjragsL3gjJibMK1cu9zZKne3o5juyhVF\nDgKpCnMntTKQaxlFDHGnzG+EkSFO4uJEzLqvnckCgYEA0nCh0GeoJGB2snQh6KhJ\nwut7WRGOpnKYQ+AiIgqrwOaxKprZhsiYvlfOJMIFyR3VUqdTSmFXUMHPbcJaSZXW\n6XvJOgYuEttseBqM6gS6L8ROBeFHtKoR5iRb4ZeU5WKMnTf6zgLwf0y3I28Wokbs\nLrSdSiG5Ecekp7TD90U/lLMCgYEAvFQAclRUni2LeJeQPMulWOMaDX13zvy5hDKf\n5/4ooaa+MJHwq0KkrWqY7ojUrYyHCFZQ4bAOrXjJxvMghSMhxYcbaOXflRRfuga/\nKIjnSwkB1wLyvnmRqFfGGHfI1WVRuwIwCHlORcHwSEulEmuVlRPGVlBXiH6DVzKu\no9RyLs0CgYEAvo+D2EalehtoIP0M37PU54956RP/CzbmL0C9Z/olwc6lTCFhLa5k\nsqisYZjYyGAdlnUy9T3kZZq7jXbbb5siO9f+Rm7mNelA9hmE1T1mpG6tAKIZ3r3K\n646tLUGocXemQZA5q2f6BCyiApJL+rMimMCxVjnnbvRMZBlLA5VPmAUCgYAL5k7k\n6nkySXRvmTwO61s2Q5tI0O26EXPza3N5KDEPDccksIQBfkODhaHGKLUvhhqeJz4T\nFJnI0kIFpSUf5HlkzsWnmibHd7MYwQZhHE1pC1ena1NFP885UNp+f0scWLuSUnAQ\niQGuHLP/DXCPumaINeipWYg+YqgP4W7xgSH53QKBgHbaBAJcfSe5kvZfSA8SgS22\n4a6gLOG8L8jKSmKWgV3hsh1rYRFHbTHQwfjsfyHTgpL+MAYd++AN4jTSp+0UVONu\n3ra4M0UM4zRSRxO7tUF2BMk19aQWg4UwssjD8LNz/2o7AcdjHzVOAbKC83P22J26\nqmpR+PI73q4qW8ThqmRO\n-----END PRIVATE KEY-----\n",
+  "client_email": "bryan-service-account@bryan-onboarding-study-298021.iam.gserviceaccount.com",
+  "client_id": "111375188784243608244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bryan-service-account%40bryan-onboarding-study-298021.iam.gserviceaccount.com"
+}

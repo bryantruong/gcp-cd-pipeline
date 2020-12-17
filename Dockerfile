@@ -1,3 +1,5 @@
+# To run the docker image, forwarding incoming track from host port 8000 to container port 8080.
+# docker run --publish 8000:8080  --name hw hello_world_image
 # Use the official Node.js 10 image.
 # https://hub.docker.com/_/node
 FROM node:10
